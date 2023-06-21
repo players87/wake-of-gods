@@ -25,7 +25,7 @@
 			 "max" : 15
 		},
 		"growth" : 9,
-		"hitPoints" : 60,
+		"hitPoints" : 150,
 		"speed" : 5,
 		"fightValue" : 130,
 		"aiValue" : 156,
@@ -132,7 +132,7 @@
 			 "max" : 15
 		},
 		"growth" : 9,
-		"hitPoints" : 60,
+		"hitPoints" : 150,
 		"speed" : 5,
 		"fightValue" : 130,
 		"aiValue" : 156,
@@ -239,7 +239,7 @@
 			 "max" : 15
 		},
 		"growth" : 9,
-		"hitPoints" : 60,
+		"hitPoints" : 150,
 		"speed" : 5,
 		"fightValue" : 130,
 		"aiValue" : 156,
@@ -346,7 +346,7 @@
 			 "max" : 15
 		},
 		"growth" : 9,
-		"hitPoints" : 60,
+		"hitPoints" : 150,
 		"speed" : 5,
 		"fightValue" : 130,
 		"aiValue" : 156,
@@ -453,7 +453,7 @@
 			 "max" : 15
 		},
 		"growth" : 9,
-		"hitPoints" : 60,
+		"hitPoints" : 150,
 		"speed" : 5,
 		"fightValue" : 130,
 		"aiValue" : 156,
@@ -560,7 +560,7 @@
 			 "max" : 15
 		},
 		"growth" : 9,
-		"hitPoints" : 60,
+		"hitPoints" : 150,
 		"speed" : 5,
 		"fightValue" : 130,
 		"aiValue" : 156,
@@ -667,7 +667,7 @@
 			 "max" : 15
 		},
 		"growth" : 9,
-		"hitPoints" : 60,
+		"hitPoints" : 150,
 		"speed" : 5,
 		"fightValue" : 130,
 		"aiValue" : 156,
@@ -774,7 +774,7 @@
 			 "max" : 15
 		},
 		"growth" : 9,
-		"hitPoints" : 60,
+		"hitPoints" : 150,
 		"speed" : 5,
 		"fightValue" : 130,
 		"aiValue" : 156,
@@ -881,7 +881,7 @@
 			 "max" : 15
 		},
 		"growth" : 9,
-		"hitPoints" : 60,
+		"hitPoints" : 150,
 		"speed" : 5,
 		"fightValue" : 130,
 		"aiValue" : 156,
